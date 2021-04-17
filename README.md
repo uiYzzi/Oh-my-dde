@@ -32,6 +32,6 @@ dpkg-buildpackage -b -d
 
 |                      🥼 DDE外观界面调整                       |                      🧥 右键菜单提高工作效率                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![跟随窗口变色.png](https://gitee.com/Limexb/SuperTabbar/raw/master/screenshot/202102280201531185_%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210228015936.png) | ![工作效率提高.png](https://gitee.com/Limexb/SuperTabbar/raw/master/screenshot/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210220173132.png) |
-|                            👔 好看的UI风格                          |                            👕 Wine 也支持                      |
-| ![多窗口合并.png](https://gitee.com/Limexb/SuperTabbar/raw/master/screenshot/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210220173027.png) | ![Wine.png](https://gitee.com/Limexb/SuperTabbar/raw/master/screenshot/%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210220173334.png) |
+| ![外观.png](https://gitee.com/Limexb/oh-my-dde/raw/master/screenshot/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210417215504.png) | ![工作效率提高.png](https://gitee.com/Limexb/oh-my-dde/raw/master/screenshot/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210417215513.png) |
+|                            👔 好看的UI风格                          |                            👕 右键菜单管理                      |
+| ![深色.png](https://gitee.com/Limexb/oh-my-dde/raw/master/screenshot/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210417215525.png) | ![右键菜单管理.png](https://gitee.com/Limexb/oh-my-dde/raw/master/screenshot/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20210417215602.png) |
