@@ -1,5 +1,5 @@
 <p align="center">
-<img width="128" src="https://gitee.com/Limexb/SuperTabbar/raw/master/debian/top.yzzi.supertabbar.svg" >
+<img width="128" src="https://gitee.com/Limexb/oh-my-dde/raw/master/debian/youjian.svg" >
 </p>
 
 
