@@ -26,7 +26,7 @@ Widget::Widget(DBlurEffectWidget *parent) :
     connect(ui->yjcd,&QPushButton::clicked,[=](){Widget::chooseLeftMenu(1);});
     connect(ui->cyml,&QPushButton::clicked,[=](){Widget::chooseLeftMenu(2);});
 
-    connect(ui->wtfButton,&QPushButton::clicked,[=](){QDesktopServices::openUrl(QUrl(QLatin1String("https://jq.qq.com/?_wv=1027&k=OZW5BYtg")));});
+    connect(ui->wtfButton,&QPushButton::clicked,[=](){QDesktopServices::openUrl(QUrl(QLatin1String("https://gitee.com/Limexb/oh-my-dde/issues/I3JWD3")));});
 
     //主题切换
     connect(DGuiApplicationHelper::instance(), &DGuiApplicationHelper::themeTypeChanged, this, [=](DGuiApplicationHelper::ColorType themeType) {
