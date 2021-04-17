@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/opt/apps/top.yzzi.youjian/files/copyfilepath.sh %U
+GenericName=Copy File Path
+GenericName[zh_CN]=复制路径
+Name=Copy File Path
+Name[zh_CN]=复制路径
+Type=Application
+X-Deepin-Vendor=user-custom

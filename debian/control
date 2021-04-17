@@ -1,0 +1,12 @@
+Source: top.yzzi.youjian
+Section: utils
+Priority: optional
+Maintainer: ”yzzi” <”admin@yzzi.top”>
+Build-Depends: debhelper (>= 11), qt5-qmake, qttools5-dev-tools, libdtkwidget-dev, gsettings-desktop-schemas
+Standards-Version: 4.1.3
+Homepage: https://www.yuque.com/mvip9k
+
+Package: top.yzzi.youjian
+Architecture: any
+Depends: xautomation,xclip,gsettings-desktop-schemas,libdtkwidget5
+Description: Oh my dde

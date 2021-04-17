@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=youjian
+Name[zh_CN]=Oh my dde
+Name[zh_TW]=Oh my dde
+Comment=Oh my dde
+Comment[zh_CN]=Oh my dde
+Comment[zh_TW]=Oh my dde
+Icon=youjian
+Exec=/opt/apps/top.yzzi.youjian/files/oh-my-dde
+Categories=Utility;
+Terminal=false
+StartupNotify=true
+StartupWMClass=oh-my-dde

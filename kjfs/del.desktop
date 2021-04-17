@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=/opt/apps/top.yzzi.youjian/files/del.sh
+GenericName=Clean Complete
+GenericName[zh_CN]=彻底删除
+X-DFM-MenuTypes=SingleDir;SingleFile;MultiFileDirs
+Name=Clean Complete
+Name[zh_CN]=彻底删除
+Type=Application
+X-Deepin-Vendor=user-custom

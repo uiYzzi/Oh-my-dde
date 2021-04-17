@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/apps/top.yzzi.youjian/files/hash %U
+Name=Hash检验
+X-Deepin-Vendor=user-custom
+X-DFM-MenuTypes=SingleFile

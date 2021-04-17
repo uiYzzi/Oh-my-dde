@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/gdgj.svg</file>
+        <file>icons/xjwd_dark.svg</file>
+        <file>icons/xjwd.svg</file>
+        <file>icons/gdgj_dark.svg</file>
+        <file>icons/cyml.svg</file>
+        <file>icons/cyml_dark.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>kjfs/Refresh.desktop</file>
+        <file>kjfs/Hash.desktop</file>
+        <file>kjfs/Show.desktop</file>
+        <file>kjfs/del.desktop</file>
+        <file>kjfs/copyfilepath.desktop</file>
+    </qresource>
+</RCC>

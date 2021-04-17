@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=/opt/apps/top.yzzi.youjian/files/show.sh
+GenericName=Show
+GenericName[zh_CN]=显示隐藏文件
+Name=Show
+Name[zh_CN]=显示隐藏文件
+Type=Application
+X-DFM-MenuTypes=EmptyArea
+X-Deepin-Vendor=user-custom

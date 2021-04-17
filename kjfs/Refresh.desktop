@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=xte 'key F5'
+GenericName=Refresh
+GenericName[zh_CN]=刷新
+X-DFM-MenuTypes=EmptyArea
+Name=Refresh
+Name[zh_CN]=刷新
+Type=Application
+X-Deepin-Vendor=user-custom
